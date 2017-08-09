@@ -1,5 +1,5 @@
 {
-  "name": "example-react-unit-testing",
+  "name": "karma-jasmine-enzyme-react-webpack-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
